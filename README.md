@@ -1,7 +1,7 @@
 # Image-Classifier-AIPND
 Artifical Intelligence Programming with Python (AIPND) Project 2: Create Your Own Image Classifier Project Udacity
 
-This Project is the second project from the AIPND Nannodegree Program from Udacity. Completed and submitted in accordance with the rubric fro this project.
+This Project is the second project from the AIPND Nannodegree Program from Udacity. Completed and submitted in accordance with the rubric from this project.
 
 Project Summary:
   1. This project aims to predict the name of a flower based on this dataset: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html.
