@@ -11,5 +11,5 @@ Project Summary:
 Usage:
   1. Run the Jupyter Notebook for walkthrough of the training and end results; or:
   2. Run train.py on command line followed by predict.py, e.g.: 
-     - python train.py --arch "densenet121" --epochs 5
-     - python predict.py --filepath 'flowers/1/image_06743.jpg
+     - *python train.py --arch "densenet121" --epochs 5*
+     - *python predict.py --filepath 'flowers/1/image_06743.jpg*
